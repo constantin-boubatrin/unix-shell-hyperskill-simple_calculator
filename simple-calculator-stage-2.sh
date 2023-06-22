@@ -27,8 +27,9 @@ if [[ "$number1" =~ $match_number ]] && \
     # Check whether an operator is correct. Operators can be 
     # multiplication, division, addition, and subtraction
     if [[ "$operator" == $match_operator ]]; then
-        arithmetic_result=$(( "$number1" "$operator" "$number2" ))
+        arithmetic_result=$( "$number1" "$operator" "$number2" )
         printf "%s\n" "$arithmetic_result"
+        exit
     else
         result+="failed!"
         printf "%s\n" "$result"

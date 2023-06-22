@@ -1,0 +1,16 @@
+Welcome to the basic calculator!
+Enter an arithmetic operation or type 'quit' to quit:
+1 + 1
+2
+Enter an arithmetic operation or type 'quit' to quit:
+5 / 5
+1.00
+Enter an arithmetic operation or type 'quit' to quit:
+5 ** 5
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+cat / 5
+Operation check failed!
+Enter an arithmetic operation or type 'quit' to quit:
+quit
+Goodbye!
