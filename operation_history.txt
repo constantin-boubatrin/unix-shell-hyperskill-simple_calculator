@@ -3,13 +3,13 @@ Enter an arithmetic operation or type 'quit' to quit:
 1 + 1
 2
 Enter an arithmetic operation or type 'quit' to quit:
-5 / 5
-1.00
+2  + 2
+4
+Enter an arithmetic operation or type 'quit' to quit:
+5 * 5
+25
 Enter an arithmetic operation or type 'quit' to quit:
 5 ** 5
-Operation check failed!
-Enter an arithmetic operation or type 'quit' to quit:
-cat / 5
 Operation check failed!
 Enter an arithmetic operation or type 'quit' to quit:
 quit
